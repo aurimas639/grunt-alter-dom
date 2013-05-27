@@ -1,0 +1,19 @@
+{
+  "name": "grunt-alter-dom",
+  "version": "0.1.0",
+  "description": "Grunt multitask for changing dom in files",
+  "dependencies": {
+    "cheerio": "~0.10"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1"
+  },
+  "repository": "",
+  "keywords": [
+    "grunt",
+    "dom",
+    "grunt task"
+  ],
+  "author": "Aurimas Ramanauskas",
+  "license": "MIT"
+}
